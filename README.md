@@ -1,4 +1,4 @@
-# sql-list-of-local-governments-and-states-in-Nigeria
+# List of local governments and states in Nigeria (SQL & Laravel Package)
 This is a list of local governments and states in Nigeria. Both in SQL and Laravel Package.
 
 ## Laravel Package NSAL (Nigerian States And LGAs)
