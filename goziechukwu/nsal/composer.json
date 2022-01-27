@@ -1,0 +1,20 @@
+{
+    "name": "goziechukwu/nigerian-states-and-lgas",
+    "description": "This package provides all states in nigeria and their Local Government Areas",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chigozie Chukwu",
+            "email": "goziechukwu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Goziechukwu\\NSAL\\": "src",
+            "Goziechukwu\\NSAL\\Database\\Seeders\\": "src/database/seeders"
+        }
+    }
+}
